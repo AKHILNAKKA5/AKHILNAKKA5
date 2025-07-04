@@ -28,8 +28,3 @@ I have built and deployed projects like:
 **Cloud:** AWS (Certified Cloud Practitioner), EC2, S3, RDS, Lambda  
 **Databases:** MongoDB, MySQL, PostgreSQL, Redis  
 **Other:** RESTful APIs, Power BI, Nginx, Agile, Kafka  
-
----
-
-💬 Let’s connect and collaborate! I’m currently open to software engineering internships and full-time roles in backend development and distributed systems.
-
