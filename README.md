@@ -7,16 +7,16 @@ I'm a Master's student in **Computer Science at George Mason University**, with 
 
 ---
 
-## 🎯 Objective
+## 🎯Objective
 
 As a **Software Engineer**, I am passionate about building distributed backend systems that are reliable, efficient, and production-ready. With hands-on experience in **Spring Boot, Kafka, Docker, and AWS**, I have delivered projects that leverage containerization, CI/CD, and microservice-based design. I enjoy solving real-world problems with clean code, modular architecture, and collaborative teamwork.
 
 I have built and deployed projects like:
 
-- 🚀 Location-Based Task Management Platform (MERN stack + GPT-3.5)
-- 🔁 Spring Boot Microservices with Kafka, Keycloak, Flyway
-- ☁️ Kubernetes & AWS-based CI/CD backend deployment
-- 📱 Java backend + Android client app for employee recognition
+- Location-Based Task Management Platform (MERN stack + GPT-3.5)
+- Spring Boot Microservices with Kafka, Keycloak, Flyway
+- Kubernetes & AWS-based CI/CD backend deployment
+- Java backend + Android client app for employee recognition
 
 ---
 
